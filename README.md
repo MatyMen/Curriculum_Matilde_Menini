@@ -19,4 +19,4 @@ R - Bash - Python - C++
 ## Get in touch
 📫 matilde.menini2@studio.unibo.it or men24mati12@gmail.com
 
-## LINK TO MY PROFILE!!! -> https://github.com/MatyMen/Curriculum_Matilde_Menini/blob/main/CV_Matilde_Menini_EN.pdf
+## LINK TO MY PROFILE!!! https://github.com/MatyMen/Curriculum_Matilde_Menini/blob/main/CV_Matilde_Menini_EN.pdf
